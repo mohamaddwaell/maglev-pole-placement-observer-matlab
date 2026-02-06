@@ -33,8 +33,3 @@ on both closed-loop performance and observer accuracy is evaluated.
 - Discrete controllers degrade performance when applied to continuous plants
   as sampling time increases
 - Observer convergence strongly depends on pole placement and noise level
-
-## How to Run
-Open MATLAB and run:
-```matlab
-main
